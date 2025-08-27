@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "start": "node .\\report.js",
+  "test": "node .\\report.js",
+  "dev": "node .\\report.js"
   },
   "keywords": [],
   "author": "",
