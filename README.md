@@ -24,7 +24,7 @@ Merchant Operations: Customer payments to Merchant, Merchant balance checks
 
 ### Api Documentation:-  https://documenter.getpostman.com/view/39155864/2sB3Hew4eh
 ### Test case Report Link:- https://docs.google.com/spreadsheets/d/1_DnTSZEugMyUPnu3-R8qQNAz_aO98P5i68tyhPx53PI/edit?usp=sharing
-### Bug Report Link:- 
+### Bug Report Link:- https://docs.google.com/spreadsheets/d/19AU0HxK9i7nSyPodSdLAJ8FoGMifjkpl5z-kOD9YKS0/edit?usp=sharing
 
 ## Attachment :-
 <img width="965" height="858" alt="image" src="https://github.com/user-attachments/assets/e5fcf34b-35f0-4b03-82e3-7e031c3608d5" />
